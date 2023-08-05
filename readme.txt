@@ -12,7 +12,7 @@ To run this project:
 5.input the search term of the data you want to scrape from amazon.
 
 #here the scraper is the name of the spider and it stores the result in csv file.
-#one file is already present in the spiders directory.
+#one file is already present in the spiders directory...
 
 
 
